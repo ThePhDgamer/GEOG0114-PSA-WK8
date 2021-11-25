@@ -13,3 +13,4 @@ RnwWeave: Sweave
 LaTeX: pdfLaTeX
 
 BuildType: Website
+WebsitePath: ~/Documents/GITHUB/GEOG0114-PSA-WK8
